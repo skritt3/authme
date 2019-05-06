@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="authme:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/authme_jar</output-path>
+    <root id="archive" name="authme.jar">
+      <element id="module-output" name="authme" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/AuthMe-5_4_0_jarSave.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
